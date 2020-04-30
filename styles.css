@@ -137,6 +137,7 @@ footer{
   bottom:18rem;
   z-index: 1;
   background-color: hsl(233, 26%, 24%);
+	margin-bottom:0;
 }
 
 ul#horizontal-list li {
